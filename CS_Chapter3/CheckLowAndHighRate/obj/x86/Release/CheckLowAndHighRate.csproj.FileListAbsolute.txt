@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\CS_Chapter3\CS_Chapter3\CheckLowAndHighRate\bin\Release\CheckLowAndHighRate.exe
+C:\Users\eahscs\Desktop\CS_Chapter3\CS_Chapter3\CheckLowAndHighRate\bin\Release\CheckLowAndHighRate.pdb
+C:\Users\eahscs\Desktop\CS_Chapter3\CS_Chapter3\CheckLowAndHighRate\obj\x86\Release\CheckLowAndHighRate.exe
+C:\Users\eahscs\Desktop\CS_Chapter3\CS_Chapter3\CheckLowAndHighRate\obj\x86\Release\CheckLowAndHighRate.pdb

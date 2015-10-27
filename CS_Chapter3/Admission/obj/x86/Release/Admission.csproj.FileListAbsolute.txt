@@ -1,0 +1,4 @@
+C:\Users\eahscs\Desktop\CS_Chapter3\CS_Chapter3\Admission\bin\Release\Admission.exe
+C:\Users\eahscs\Desktop\CS_Chapter3\CS_Chapter3\Admission\bin\Release\Admission.pdb
+C:\Users\eahscs\Desktop\CS_Chapter3\CS_Chapter3\Admission\obj\x86\Release\Admission.exe
+C:\Users\eahscs\Desktop\CS_Chapter3\CS_Chapter3\Admission\obj\x86\Release\Admission.pdb
