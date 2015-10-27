@@ -17,11 +17,9 @@ namespace EnsureValidPayRate
 
             weekly = pay * 40;
             num = weekly.ToString("C");
-            num2 = num2.ToString("C");
-
-            number = 5.65;
-
             number2 = 49.99;
+            num2 = number2.ToString("C");
+            number = 5.65;
 
             if (pay < number || pay > number2)
             {
